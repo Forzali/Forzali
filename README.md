@@ -1,5 +1,5 @@
 # 💫 About Me:
-      Hi 👋, I'm Forzali<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+      Hi 👋, I'm Ali osman
 
 
 ## 🌐 Socials:
