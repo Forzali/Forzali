@@ -1,4 +1,4 @@
-# 💫 About Me Hi 👋, I'm Ali osman:
+# 💫 Hi 👋, I'm Ali osman:
 
 
 ## 🌐 Socials:
