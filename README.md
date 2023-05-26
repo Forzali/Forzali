@@ -1,24 +1,48 @@
-# 💫 About Me:
-      Hi 👋, I'm Forzali<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<a href="#"><img src="https://github.com/Forzali/banner/blob/main/A%20Frontend%20Developer%20from%20India.png" width="100%" /></a>
+### Hello all 👋
+
+# Myself Ayush Thakur&nbsp;<img src="https://github.com/Forzali/banner/blob/main/man-technologist-people.gif" width="30px">
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aliosmanduzcan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-osman-duzcan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AliOsman08_16) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC_ceBEmwPZzQUgJoeRcxlfA) 
+<!-- 
+    &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
+-->
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Forzali&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Forzali&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Forzali&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/AliOsman08_16)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- <img alt="GIF" src="https://github.com/Forzali/banner/blob/main/hva-hogeschool-van-amsterdam.gif" width="60px" /> A 23 year old, **B.tech** graduate in **Information Technology** field 🎓
+- <img alt="GIF" src="https://github.com/Forzali/banner/blob/main/hacker-pepe.gif" width="60px" /> A **Frontend Developer and JavaScript Enthusiast** and currently learning **React**  ⚛.
+- <img alt="GIF" src="https://github.com/Forzali/banner/blob/main/back-to-work-work.gif" width="60px" /> Looking on opportunities based on **Frontend Development** ✨
+- <img alt="GIF" src="https://github.com/Forzali/banner/blob/main/aplausos-emoji.gif" width="60px" /> Working as a **Freelancer** as **Content Writer** and **Web Developer** 🌐
+- <img alt="GIF" src="https://github.com/Forzali/banner/blob/main/i-love-you-love.gif" width="60px" /> Huge **Marvel** Fan and **Potterhead** 🦸‍♂️
+- <img alt="GIF" src="https://github.com/Forzali/banner/blob/main/school-student.gif" width="60px" /> **Fact:** I was the youngest in my whole college to clear graduation (at age 20) 😜
+- <img alt="GIF" src="https://github.com/Forzali/banner/blob/main/%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%D9%85%D9%86.gif" width="60px" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Forzali&icon=7&color=6)](https://visitcount.itsvg.in)
+## 🚀 Languages and Tools:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)![C](https://img.icons8.com/color/30/c-programming.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+<br/>
+
+<br>
+
+
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=Forzali&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forzali&theme=radical)<img src="https://github.com/Forzali/banner/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png" alt="dinotocat" style="float: left; margin-left: 10px;" width="450px" />
+
+<br>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "linkedin.com/in/ayush-thakur-5b6351161/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
+<a href = "https://twitter.com/JSAyushThakur"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
+<a href = "https://www.instagram.com/ayushthakur2390/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30px"/></a>
+</p>
+
+
