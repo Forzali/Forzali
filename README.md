@@ -20,7 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Forzali&icon=7&color=6)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1 align="left">Hi 👋! My name is Ali Osman and I'm a Frontend Developer</h1>
 
